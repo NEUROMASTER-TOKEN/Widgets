@@ -1,2 +1,2 @@
 # Widgets
-Wiget Ticker For NEUROMASTER Token
+Widget Ticker For NEUROMASTER Token
